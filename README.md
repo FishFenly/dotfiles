@@ -22,7 +22,11 @@ Stored incase I want to apply my setup to a new device, need to rebuild or share
 
 ### Editor
 
-* code
+* emacs
+
+### Shell
+
+* fish
 
 ### Other
 
